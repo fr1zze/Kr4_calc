@@ -11,18 +11,18 @@
 ## Скриншоты работы
 
 ### Главная страница
-![Главная страница](./src/images/main.png)
+![Главная страница](./calculator/src/images/main.png)
 
 ### Работоспособность 
 
 #### Ошибка
-![Ошибка](./src/images/error.png)
+![Ошибка](./calculator/src/images/error.png)
 
 #### Верное решение
-![Верное решение](./src/images/correct.png)
+![Верное решение](./calculator/src/images/correct.png)
 
 #### Ошибка
-![Ошибка](./src/images/error.png)
+![Ошибка](./calculator/src/images/error.png)
 
 #### Новый пример
-![Новый пример](./src/images/new_task.png)
+![Новый пример](./calculator/src/images/new_task.png)
